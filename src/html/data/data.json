@@ -1,0 +1,17 @@
+{
+    "copy"           : "AppSeed. All rights reserved.", 
+    "email"          : "support@appseed.us",
+    "design"         : "Wide Angle by Pixelarity",
+
+    "seo_title"      : "JAMstack - Wide Angle design by Pixelarity | AppSeed",
+    "seo_desc"       : "JAMstack app with Wide Angle design crafted by top Pixelarity.",
+
+    "product"        : "https://github.com/app-generator/priv-jamstack-wide-angle", 
+    "github"         : "https://github.com/app-generator/priv-jamstack-wide-angle",
+    "facebook"       : "https://facebook.com/webappseed",
+    "twitter"        : "https://twitter.com/webappseed",
+    "support"        : "https://appseed.us/support",
+    "discord"        : "https://discord.gg/fZC6hup",
+
+    "LAST_KEY" : "NA"
+}
